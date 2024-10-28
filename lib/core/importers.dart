@@ -1,0 +1,12 @@
+export 'package:flutter/material.dart';
+export 'package:uzum_app/main.dart';
+export 'package:uzum_app/core/elements.dart';
+export 'package:uzum_app/core/widgets.dart';
+export 'package:uzum_app/feature/body.dart';
+export 'package:uzum_app/feature/tab_bar.dart';
+export 'package:uzum_app/feature/main_page.dart';
+export 'package:uzum_app/feature/catalog_page.dart';
+export "package:uzum_app/feature/bag_page.dart";
+export 'package:uzum_app/feature/favourites_page.dart';
+export 'package:uzum_app/feature/cabinet_page.dart';
+export 'package:uzum_app/feature/products.dart';
